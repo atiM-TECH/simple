@@ -1,4 +1,4 @@
-This is the first lineused for the pull request test.
+This is the first line used for the pull request test.
 
 This is the second line!
 
